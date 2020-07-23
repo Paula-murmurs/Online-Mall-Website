@@ -1,0 +1,6 @@
+1.安装java环境
+ls /Library/Java/JavaVirtualMachines/ 查看安装目录，显示我只安装了jdk12，但IDEA中我可以选择jdk11和12，不明白问题出在哪里。不知mac安装多个jdk环境需不需要配置，以及idea可以正常选择jdk吗。
+由于项目需要jdk7，下载完成安装包后双击安装成功，查看安装目录也可以查到 jdk12和7。在IDEA中新建项目 可以以选择jdk版本11、12、7.
+2.安装tomcat
+本机已有/Users/xieyaqiong/ThinkingInPaula/apache-tomcat-8.5.50，项目需要安装tomcat7，下载后解压缩到指定目录，（绿色软件的感觉），使用startup.sh即可启动。修改其中server.xml的信息，使
+URIEncoding为utf-8。
