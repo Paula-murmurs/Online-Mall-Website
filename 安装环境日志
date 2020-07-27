@@ -11,3 +11,6 @@ tomcat本身就是由java写的,在jdk环境下运行的，所以要注意tomcat
 本机已安装maven3.6.3,没有配那些环境变量啥的。
 4.安装vsftpd
 好难 后面都没有针对macos 的操作介绍。
+5...需要安装的很多 且版本特定，先不弄这个安装
+6，安装idea15,先初始化项目
+IDEA配置，project structure选择sdk，language level；settings配置maven（此时还发生我的build tools里没有maven的情况，需要去plugin中添加一下);
