@@ -6,4 +6,5 @@
 配置好tomcat7后，启动初始化的项目，访问本机8088端口网页成功。
 compile make build都是编译过程，只不过范围不同。
 2020.7.28
-git配置。我之前已经安装了2.23.0，所以没用教程的2.8.0.
+git配置。我之前已经安装了2.23.0，所以没用教程的2.8.0.git可以在zsh终端中使用，也可以在idea的自带terminal 中使用，自带的terminal若没有需去勾选plugins，并且terminal中用git，也要在settings
+中对其进行配置version control。使用git push将本地的代码推送到github仓库中。
