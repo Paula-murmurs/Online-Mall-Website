@@ -1,6 +1,9 @@
 2020.7.27
 前几天尝试项目环境的配置搞得有点心烦，索性先从项目初始化开始直接做，不对了再改环境。
 新建maven项目，build failure，报错如下Plugin org.apache.maven.plugins:maven-archetype-plugin:RELEASE or one of its dependencies could not be resolved...；一开始以为是
-版本问题，和教程版本一致后还是不行；应该是maven安装后需要配置的问题.https://blog.csdn.net/luckytsw/article/details/85866497?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param
+版本问题，改成和教程版本一致后还是不行；应该是maven安装后需要配置的问题.https://blog.csdn.net/luckytsw/article/details/85866497?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param
 按照此博客进行配置，主要是添加阿里云的国内镜像，仓库位置什么的不改变也可以，重试后build success。
 配置好tomcat7后，启动初始化的项目，访问本机8088端口网页成功。
+compile make build都是编译过程，只不过范围不同。
+2020.7.28
+git配置。我之前已经安装了2.23.0，所以没用教程的2.8.0.
