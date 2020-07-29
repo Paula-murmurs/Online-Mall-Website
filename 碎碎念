@@ -8,3 +8,13 @@ compile make build都是编译过程，只不过范围不同。
 2020.7.28
 git配置。我之前已经安装了2.23.0，所以没用教程的2.8.0.git可以在zsh终端中使用，也可以在idea的自带terminal 中使用，自带的terminal若没有需去勾选plugins，并且terminal中用git，也要在settings
 中对其进行配置version control。使用git push将本地的代码推送到github仓库中。
+修改项目中的pom文件，导入各种依赖jar包。maven的中央仓库：https://search.maven.org/。
+初始化项目包结构，把各种package先建起来;
+配置mybatis-generator xml文件；使用mybatis-generator，出现报错，Client does not support authentication protocol...解决方案：https://www.jianshu.com/p/b338a2ffec0d，修改后，
+build成功，同时在dao pojo mappers中生成一系列文件;
+仓库里找到mybatis plugin并安装，能够实现mapper xml和接口类中函数之间的跳转；mybatis-pagehelper分页插件；
+2020.7.29
+spring 官方github中有很多可以自己跑的demo。宠物医院 绿房子。
+配置spring springmvc；配置日志logback；ftp服务器配置。。。待做
+
+
