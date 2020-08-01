@@ -16,5 +16,15 @@ build成功，同时在dao pojo mappers中生成一系列文件;
 2020.7.29
 spring 官方github中有很多可以自己跑的demo。宠物医院 绿房子。
 配置spring springmvc；配置日志logback；ftp服务器配置。。。待做
+项目初始化代码提交；
+第4章，数据表结构，表关系等；
+第6章，用户模块开发；
+SSM框架原理 https://blog.csdn.net/bieleyang/article/details/77862042
+2020.7.30
+用户模块 登陆功能开发；
+在responseserver里的函数 看到泛型的函数有两个返回值，是声明此方法有一个泛型T，https://blog.csdn.net/weixin_42071874/article/details/82993262?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-3.channel_param&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-3.channel_param
+2020.7.31
+用户模块，登出、注册、校验功能开发；
+
 
 
