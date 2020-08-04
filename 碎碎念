@@ -25,6 +25,8 @@ SSM框架原理 https://blog.csdn.net/bieleyang/article/details/77862042
 在responseserver里的函数 看到泛型的函数有两个返回值，是声明此方法有一个泛型T，https://blog.csdn.net/weixin_42071874/article/details/82993262?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-3.channel_param&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-3.channel_param
 2020.7.31
 用户模块，登出、注册、校验功能开发；
+2020.8.04
+用户模块开发完成，分类管理模块开发完成；完成功能测试；
 
 
 
