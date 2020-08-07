@@ -32,10 +32,12 @@ SSM框架原理 https://blog.csdn.net/bieleyang/article/details/77862042
 2020.8.05
 用户模块测试完成；分类管理模块测试完成；
 总结一下postman的使用：建立collection-folder可以很好的管理测试过的接口，add request后，填写url，若为post请求，要在body中填参数；若为get请求，在params或uri上填参数（顺序不限？），可对测试接口进行保存。
+2020.8.06
+第八章商品管理模块的开发搞完；ftp文件服务器的配置，弄懂原理、逻辑，富文本上传（视频2-9，2-10，2-15）
+FTP服务器（File Transfer Protocol Server），ftp服务器是提供FTP服务的专用计算机。ftp是一种客户端/服务器协议，用于将文件传输到主机或与主机交换文件。它可以使用用户名和密码进行身份验证。
+vsftpd 是“very secure FTP daemon”，是服务器端软件，客户端可以使用浏览器访问ftp://10.x.x.x或者安装ftp客户端软件，
+前后台商品管理模块的测试。
 
-2020.8.06
-第八章模块的
-2020.8.06
 
 
 
